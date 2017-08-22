@@ -26,6 +26,7 @@ Or install it yourself as:
 
 * Backbone 1.3.3
 * Underscore 1.8.3
+* backbone.paginator 2.0.5
 
 ## Usage
 
